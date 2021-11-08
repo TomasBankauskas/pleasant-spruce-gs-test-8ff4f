@@ -32,7 +32,7 @@
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": 0,
-        "horizontalPadding": 30,
+        "horizontalPadding": 18,
         "verticalPadding": 1,
         "shadow": "none"
     },
