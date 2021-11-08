@@ -301,7 +301,7 @@ fields:
         label: Horizontal padding
         controlType: 'slider'
         min: 0
-        max: 30
+        max: 50
         step: 1
         unit: 'px'
         default: 24
