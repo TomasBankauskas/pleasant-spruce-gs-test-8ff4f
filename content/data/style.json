@@ -10,7 +10,8 @@
         "weight": "bold",
         "decoration": "underline",
         "case": "none",
-        "letterSpacing": "normal"
+        "letterSpacing": "normal",
+        "lineHeight": 52
     },
     "h3": {
         "weight": "bold",
