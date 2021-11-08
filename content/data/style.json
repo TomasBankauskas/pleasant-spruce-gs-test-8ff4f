@@ -11,7 +11,7 @@
         "decoration": "underline",
         "case": "none",
         "letterSpacing": "normal",
-        "lineHeight": 52
+        "lineHeight": 70
     },
     "h3": {
         "weight": "bold",
